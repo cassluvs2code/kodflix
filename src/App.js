@@ -7,7 +7,15 @@ class App extends Component {
     return (
       <div className="App">
         <img src = { javascriptLogo } alt="javascript logo" />
-        <h1>Welcome to Kodflix</h1>
+        <br />
+        <br />
+        <div>
+          <div>HTML5</div>
+          <div>ReactJs</div>
+          <div>CSS3</div>
+        </div>
+        
+        
     </div>
     );
   }    
